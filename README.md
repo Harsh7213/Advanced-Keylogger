@@ -25,3 +25,5 @@ Pop!_OS 22.04 LTS
 # Requirement
 
 python3
+
+🙏 Dont use this tool for unethical purpose 🙏
