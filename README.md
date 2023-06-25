@@ -7,7 +7,7 @@ Above Keylogger is able to log keystrokes, take screenshots, record audio, colle
 
 # Installation
 
-Clone it: git clone https://github.com/Harshx5241544849/Keylogger.git
+Clone it: git clone https://github.com/Harsh7213/Advanced-Keylogger.git
 
 Run it: python Keylogger.py
 
